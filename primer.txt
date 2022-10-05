@@ -1,4 +1,4 @@
-Primer proyecto de prueba de git hub modificando el titulo en master
+Primer proyecto de prueba de git hub modificando el titulo en master para conflicto
 
 Esta sirviendo chido
 
